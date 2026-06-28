@@ -1,4 +1,4 @@
-# 
+# Natif MEV arbitrage bot modèles pour Mac OS | Automatique MEV arbitrage bot modèles pour PC Windows. Avec optimisation du prix du gaz et vérification de l'approbation des jetons — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
